@@ -1,0 +1,15 @@
+[
+   {
+      "relation": [
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+         "namespace": "android_app",
+         "package_name": "base.project.app",
+         "sha256_cert_fingerprints": [
+            "6F:A0:75:3A:08:05:C2:CF:35:47:7E:A1:40:07:49:81:CA:A7:D6:D6:B6:5C:53:7E:9D:08:B1:EC:74:C0:EF:D0",
+            "8E:47:AB:17:F7:9F:51:15:30:C7:D2:43:23:01:5D:A2:82:32:E6:25:94:66:DB:C2:6F:FB:B3:59:73:6F:5E:0A"
+         ]
+      }
+   }
+]

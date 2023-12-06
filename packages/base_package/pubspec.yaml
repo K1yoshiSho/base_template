@@ -1,0 +1,24 @@
+name: base_package
+description: Core Package for Loca App
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  charcode: ^1.3.1
+  flutter:
+    sdk: flutter
+  flutter_quill: ^8.6.0
+  html: ^0.15.4
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+
+flutter:
+  uses-material-design: true
+  generate: true

@@ -1,0 +1,46 @@
+{
+   "project_info": {
+      "project_number": "953043794358",
+      "project_id": "loca-app-kz",
+      "storage_bucket": "loca-app-kz.appspot.com"
+   },
+   "client": [
+      {
+         "client_info": {
+            "mobilesdk_app_id": "1:953043794358:android:ae508cc77e17b96bc92917",
+            "android_client_info": {
+               "package_name": "base.project.app.dev"
+            }
+         },
+         "oauth_client": [
+            {
+               "client_id": "953043794358-hs8j0ql8ghkq1ogtuarbedq32f40o59k.apps.googleusercontent.com",
+               "client_type": 3
+            }
+         ],
+         "api_key": [
+            {
+               "current_key": "AIzaSyBf2vmB7w_EbA1ZaoMGJOBa8BOE8qo_a6Q"
+            }
+         ],
+         "services": {
+            "appinvite_service": {
+               "other_platform_oauth_client": [
+                  {
+                     "client_id": "953043794358-hs8j0ql8ghkq1ogtuarbedq32f40o59k.apps.googleusercontent.com",
+                     "client_type": 3
+                  },
+                  {
+                     "client_id": "953043794358-a2917qfu4auheq0ptjpdb2348b7p093q.apps.googleusercontent.com",
+                     "client_type": 2,
+                     "ios_info": {
+                        "bundle_id": "base.project.app"
+                     }
+                  }
+               ]
+            }
+         }
+      }
+   ],
+   "configuration_version": "1"
+}

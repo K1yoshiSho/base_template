@@ -1,0 +1,18 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_652_2020)" filter="url(#filter0_b_652_2020)">
+<rect width="70" height="70" fill="#FDBD01"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M70.6245 54.6434C70.5474 65.1398 62.0146 73.625 51.5 73.625C40.9376 73.625 32.375 65.0624 32.375 54.5C32.375 48.7169 34.9419 43.5333 38.9984 40.0263L51.1016 61.0142C52.2751 63.049 54.8766 63.746 56.9102 62.5706L70.6245 54.6434ZM69.0921 46.9853L59.1124 52.7538C58.0956 53.3415 56.7948 52.993 56.2081 51.9756L46.9491 35.9198C48.4076 35.5638 49.9318 35.375 51.5 35.375C59.3947 35.375 66.1722 40.1585 69.0921 46.9853ZM77 54.5C77 68.5833 65.5833 80 51.5 80C37.4167 80 26 68.5833 26 54.5C26 40.4167 37.4167 29 51.5 29C65.5833 29 77 40.4167 77 54.5Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.2497 37.0844C14.2043 43.2587 9.18506 48.25 3 48.25C-3.2132 48.25 -8.25 43.2132 -8.25 37C-8.25 33.5982 -6.74009 30.549 -4.35388 28.4861L2.76568 40.8319C3.45592 42.0288 4.98623 42.4389 6.18246 41.7474L14.2497 37.0844ZM13.3483 32.5796L7.47786 35.9728C6.87974 36.3185 6.11459 36.1135 5.76946 35.5151L0.322972 26.0705C1.18096 25.861 2.07751 25.75 3 25.75C7.64395 25.75 11.6307 28.5638 13.3483 32.5796ZM18 37C18 45.2843 11.2843 52 3 52C-5.28427 52 -12 45.2843 -12 37C-12 28.7157 -5.28427 22 3 22C11.2843 22 18 28.7157 18 37Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_b_652_2020" x="-4" y="-4" width="78" height="78" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="2"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_652_2020"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_652_2020" result="shape"/>
+</filter>
+<clipPath id="clip0_652_2020">
+<rect width="70" height="70" fill="white"/>
+</clipPath>
+</defs>
+</svg>
